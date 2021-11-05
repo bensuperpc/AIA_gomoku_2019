@@ -1,0 +1,11 @@
+https://embeddedartistry.com/blog/2017/03/15/c-casting-or-oh-no-they-broke-malloc/
+https://www.acodersjourney.com/6-tips-supercharge-cpp-11-vector-performance/
+http://petr.lastovicka.sweb.cz/protocl2en.htm 
+https://stackoverflow.com/questions/15009442/c-push-back-vs-insert-vs-emplace
+https://stackoverflow.com/questions/19173970/calling-member-function-pointers-from-vector-list
+https://zestedesavoir.com/tutoriels/553/les-conversions-de-types-en-c/
+https://stackoverflow.com/questions/21110211/vector-of-pointer-to-member-functions
+http://www.cplusplus.com/forum/unices/194352/
+https://stackoverflow.com/questions/10150468/how-to-redirect-cin-and-cout-to-files
+https://stackoverflow.com/questions/1452721/why-is-using-namespace-std-considered-bad-practice?noredirect=1&lq=1
+https://stackoverflow.com/questions/1642028/what-is-the-operator-in-c?rq=1
